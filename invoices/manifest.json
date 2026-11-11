@@ -1,0 +1,52 @@
+{
+  "intake_batch": "AP-2026-11-A",
+  "received_on": "2026-11-11",
+  "intake_folder": "invoices",
+  "documents": [
+    {
+      "file": "invoices/INV-2026-0101.pdf",
+      "vendor_name": "Northwind Industrial Supply",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0102.pdf",
+      "vendor_name": "Northwind Industrial Supply",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0103.pdf",
+      "vendor_name": "Brightline Office Systems",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0104.pdf",
+      "vendor_name": "Brightline Office Systems",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0105.pdf",
+      "vendor_name": "Cascade Freight Partners",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0106.pdf",
+      "vendor_name": "Vertex IT Solutions",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0107.pdf",
+      "vendor_name": "Summit Facilities Group",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0108.pdf",
+      "vendor_name": "Meridian Packaging Co",
+      "received_on": "2026-11-11"
+    },
+    {
+      "file": "invoices/INV-2026-0109.pdf",
+      "vendor_name": "Summit Facilities Group",
+      "received_on": "2026-11-11"
+    }
+  ]
+}
