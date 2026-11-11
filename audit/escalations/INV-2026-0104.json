@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0104",
+  "vendor_name": "Brightline Office Systems",
+  "amount": 2980.0,
+  "due_date": "2026-11-30",
+  "po_number": "PO-XX-9001",
+  "status": "MISSING_PO",
+  "priority": "normal",
+  "reason_code": "MISSING_OR_INVALID_PO",
+  "details": "Purchase order number is missing or does not match the vendor PO prefix."
+}
