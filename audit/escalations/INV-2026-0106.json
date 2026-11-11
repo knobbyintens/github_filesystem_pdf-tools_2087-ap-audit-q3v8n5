@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0106",
+  "vendor_name": "Vertex IT Solutions",
+  "amount": 4600.0,
+  "due_date": "2026-11-25",
+  "po_number": "PO-VX-7788",
+  "status": "HOLD",
+  "priority": "normal",
+  "reason_code": "VENDOR_NOT_APPROVED",
+  "details": "Vendor is missing from the approved vendor master or is not approved for payment."
+}
