@@ -1,8 +1,0 @@
-{
-  "policy_version": "AP-2026.01",
-  "reporting_currency": "USD",
-  "urgent_amount_threshold": 10000.0,
-  "urgent_overdue_days": 14,
-  "invoice_intake_folder": "invoices",
-  "findings_path": "audit/findings.json"
-}
