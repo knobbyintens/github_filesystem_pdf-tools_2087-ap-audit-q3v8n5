@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0105",
+  "vendor_name": "Cascade Freight Partners",
+  "amount": 8800.0,
+  "due_date": "2026-10-20",
+  "po_number": "N/A",
+  "status": "APPROVED",
+  "priority": "urgent",
+  "reason_code": "PAST_DUE",
+  "details": "Invoice is past its due date and requires accounts payable follow-up."
+}
