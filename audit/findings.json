@@ -1,0 +1,122 @@
+{
+  "policy_version": "AP-2026.01",
+  "findings": [
+    {
+      "invoice_number": "INV-2026-0101",
+      "vendor_name": "Northwind Industrial Supply",
+      "invoice_date": "2026-11-05",
+      "due_date": "2026-12-05",
+      "amount": 3200.0,
+      "po_number": "PO-NW-4471",
+      "status": "APPROVED",
+      "escalate": false,
+      "priority": "normal",
+      "reason_code": "NONE",
+      "reason": "Invoice is within policy and can be paid normally."
+    },
+    {
+      "invoice_number": "INV-2026-0102",
+      "vendor_name": "Northwind Industrial Supply",
+      "invoice_date": "2026-11-10",
+      "due_date": "2026-12-10",
+      "amount": 6400.0,
+      "po_number": "PO-NW-4523",
+      "status": "MANUAL_REVIEW",
+      "escalate": true,
+      "priority": "normal",
+      "reason_code": "OVER_AUTO_APPROVE_LIMIT",
+      "reason": "Invoice total exceeds the vendor auto-approval limit."
+    },
+    {
+      "invoice_number": "INV-2026-0103",
+      "vendor_name": "Brightline Office Systems",
+      "invoice_date": "2026-10-29",
+      "due_date": "2026-11-28",
+      "amount": 1250.0,
+      "po_number": "N/A",
+      "status": "MISSING_PO",
+      "escalate": true,
+      "priority": "normal",
+      "reason_code": "MISSING_OR_INVALID_PO",
+      "reason": "Purchase order number is missing or does not match the vendor PO prefix."
+    },
+    {
+      "invoice_number": "INV-2026-0104",
+      "vendor_name": "Brightline Office Systems",
+      "invoice_date": "2026-10-31",
+      "due_date": "2026-11-30",
+      "amount": 2980.0,
+      "po_number": "PO-XX-9001",
+      "status": "MISSING_PO",
+      "escalate": true,
+      "priority": "normal",
+      "reason_code": "MISSING_OR_INVALID_PO",
+      "reason": "Purchase order number is missing or does not match the vendor PO prefix."
+    },
+    {
+      "invoice_number": "INV-2026-0105",
+      "vendor_name": "Cascade Freight Partners",
+      "invoice_date": "2026-09-20",
+      "due_date": "2026-10-20",
+      "amount": 8800.0,
+      "po_number": "N/A",
+      "status": "APPROVED",
+      "escalate": true,
+      "priority": "urgent",
+      "reason_code": "PAST_DUE",
+      "reason": "Invoice is past its due date and requires accounts payable follow-up."
+    },
+    {
+      "invoice_number": "INV-2026-0106",
+      "vendor_name": "Vertex IT Solutions",
+      "invoice_date": "2026-10-26",
+      "due_date": "2026-11-25",
+      "amount": 4600.0,
+      "po_number": "PO-VX-7788",
+      "status": "HOLD",
+      "escalate": true,
+      "priority": "normal",
+      "reason_code": "VENDOR_NOT_APPROVED",
+      "reason": "Vendor is missing from the approved vendor master or is not approved for payment."
+    },
+    {
+      "invoice_number": "INV-2026-0107",
+      "vendor_name": "Summit Facilities Group",
+      "invoice_date": "2026-10-19",
+      "due_date": "2026-11-18",
+      "amount": 12500.0,
+      "po_number": "PO-SF-2201",
+      "status": "MANUAL_REVIEW",
+      "escalate": true,
+      "priority": "urgent",
+      "reason_code": "OVER_AUTO_APPROVE_LIMIT",
+      "reason": "Invoice total exceeds the vendor auto-approval limit."
+    },
+    {
+      "invoice_number": "INV-2026-0108",
+      "vendor_name": "Meridian Packaging Co",
+      "invoice_date": "2026-10-23",
+      "due_date": "2026-11-22",
+      "amount": 2100.0,
+      "po_number": "PO-MP-3311",
+      "status": "HOLD",
+      "escalate": true,
+      "priority": "normal",
+      "reason_code": "VENDOR_NOT_APPROVED",
+      "reason": "Vendor is missing from the approved vendor master or is not approved for payment."
+    },
+    {
+      "invoice_number": "INV-2026-0109",
+      "vendor_name": "Summit Facilities Group",
+      "invoice_date": "2026-10-31",
+      "due_date": "2026-11-30",
+      "amount": 7500.0,
+      "po_number": "PO-SF-2299",
+      "status": "APPROVED",
+      "escalate": false,
+      "priority": "normal",
+      "reason_code": "NONE",
+      "reason": "Invoice is within policy and can be paid normally."
+    }
+  ]
+}
