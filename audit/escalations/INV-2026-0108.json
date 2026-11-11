@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0108",
+  "vendor_name": "Meridian Packaging Co",
+  "amount": 2100.0,
+  "due_date": "2026-11-22",
+  "po_number": "PO-MP-3311",
+  "status": "HOLD",
+  "priority": "normal",
+  "reason_code": "VENDOR_NOT_APPROVED",
+  "details": "Vendor is missing from the approved vendor master or is not approved for payment."
+}
