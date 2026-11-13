@@ -1,26 +1,48 @@
-<p align="center"><a href="https://lab.github.com/"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
+# Hello GitHub Actions
 
-<h1 align="center">Course: GitHub Actions: Hello World </h1>
+_Create and run a GitHub Actions workflow._
 
-This repository powers the Learning Lab course [_GitHub Actions: Hello World_](https://lab.github.com/githubtraining/github-actions:-hello-world).
+## Welcome
 
-Every Learning Lab course is made up of:
-- a [course repository](https://github.com/githubtraining/hello-github-actions), and
-- a [template repository](https://github.com/githubtraining/hello-github-actions-template)
+Automation is key for repetitive tasks like testing, scanning, review, and deployment processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to streamline that workflow.
 
-The course repository is written in YAML and Markdown. The template repository could be written in any language that supports the learning objectives.
+- **Who is this for**: Developers, DevOps engineers, Security engineers
+- **What you'll learn**: How to create GitHub Actions workflows, how to run them, and how to use them to automate tasks.
+- **What you'll build**: An Actions workflow that will comment on a pull request when it is created.
+- **Prerequisites**: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+- **How long**: This exercise can be finished in less than 30min.
 
-For more information on the goals of this course, check out the [`course-details.md`](course-details.md).
+In this exercise, you will:
 
-## Contribute
+1. Create a workflow file
+1. Add a job
+1. Add a run step
+1. See the workflow run
+1. Merge your pull request
 
-See something we could improve? Check out the contributing guide in the [community contributors repository](https://github.com/githubtraining/community-contributors/blob/main/CONTRIBUTING.md) for more information on the types of contributions we :heart: and instructions.
+### How to start this exercise
 
-We :heart: our community and take great care to ensure it is fun, safe and rewarding. Please review our [Code of Conduct](https://github.com/githubtraining/community-contributors/blob/main/CODE_OF_CONDUCT.md) for community expectations and guidelines for reporting concerns.
+Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-## License
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=hello-github-actions&owner=%40me&name=skills-hello-github-actions&description=Exercise:+Create+and+run+a+GitHub+Actions+Workflow&visibility=public)
 
-All Learning Lab course repositories are licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc. The template repositories associated with each course may have different licenses.
+<details>
+<summary>Having trouble? 🤷</summary><br/>
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos)
-Latest intake: ARIA: Runtime Inspection and Amendment for Multi-Agent Systems (2610.20780)
+When copying the exercise, we recommend the following settings:
+
+- For owner, choose your personal account or an organization to host the repository.
+
+- We recommend creating a public repository, since private repositories will use Actions minutes.
+
+If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+
+- Check to see if a job is running. Sometimes it simply takes a bit longer.
+
+- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+
+</details>
+
+---
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
