@@ -23,3 +23,4 @@ We :heart: our community and take great care to ensure it is fun, safe and rewar
 All Learning Lab course repositories are licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc. The template repositories associated with each course may have different licenses.
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos)
+Latest intake: ARIA: Runtime Inspection and Amendment for Multi-Agent Systems (2610.20780)
